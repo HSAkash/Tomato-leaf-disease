@@ -39,7 +39,7 @@ Compile the model with the following options:
 ### Fit model
 Then fit the model with the following parameters:
 * train_data
-* epochs (200)
+* epochs (3000)
 * validation_data (test data)
 * validation_steps (len of test_data)
 
@@ -98,8 +98,8 @@ python tomato.py
 * [data_augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation)
 
 # Links (dataset & code)
-* [Tomato leaf disease detection](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)
-* [Code](https://www.kaggle.com/code/hsakash/tomato-leaf-disease-val-data-accuracy-98)
+* [Kaggle-Tomato leaf disease detection](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)
+* [Kaggle-Code](https://www.kaggle.com/code/hsakash/tomato-leaf-disease-val-data-accuracy-98)
 
 
 # Author
