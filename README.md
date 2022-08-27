@@ -46,15 +46,15 @@ Then fit the model with the following parameters:
 
 #### 0.Input image
 ![layer_0](https://github.com/HSAkash/Tomato-leaf-disease/raw/main/related_images/test_image.png)
-#### 1.Conv2D with 60 filters (output)
+#### 1.Conv2D with 32 filters (output)
 ![layer_0](https://github.com/HSAkash/Tomato-leaf-disease/raw/main/related_images/layer_0.png)
 #### 2.MaxPool2D (pool_size=2) (output)
 ![layer_1](https://github.com/HSAkash/Tomato-leaf-disease/raw/main/related_images/layer_1.png)
-#### 3.Conv2D with 60 filters (output)
+#### 3.Conv2D with 16 filters (output)
 ![layer_2](https://github.com/HSAkash/Tomato-leaf-disease/raw/main/related_images/layer_2.png)
 #### 4.MaxPool2D (pool_size=2) (output)
 ![layer_3](https://github.com/HSAkash/Tomato-leaf-disease/raw/main/related_images/layer_3.png)
-#### 5.Conv2D with 60 filters (output)
+#### 5.Conv2D with 32 filters (output)
 ![layer_4](https://github.com/HSAkash/Tomato-leaf-disease/raw/main/related_images/layer_4.png)
 #### 6.MaxPool2D (pool_size=2) (output)
 ![layer_5](https://github.com/HSAkash/Tomato-leaf-disease/raw/main/related_images/layer_5.png)
@@ -98,8 +98,8 @@ python tomato.py
 * [data_augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation)
 
 # Links (dataset & code)
-* [Kaggle-Tomato leaf disease detection](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)
-* [Kaggle-Code](https://www.kaggle.com/code/hsakash/tomato-leaf-disease-val-data-accuracy-98)
+* [Tomato leaf disease detection](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)
+* [Code](https://www.kaggle.com/code/hsakash/tomato-leaf-disease-val-data-accuracy-98)
 
 
 # Author
